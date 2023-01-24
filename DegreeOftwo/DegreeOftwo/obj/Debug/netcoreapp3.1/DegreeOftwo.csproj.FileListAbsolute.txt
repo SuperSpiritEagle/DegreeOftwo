@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.exe
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.deps.json
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.runtimeconfig.json
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.runtimeconfig.dev.json
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.dll
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\bin\Debug\netcoreapp3.1\DegreeOftwo.pdb
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.AssemblyInfo.cs
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.dll
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.pdb
+C:\Users\User\source\repos\DegreeOftwo\DegreeOftwo\obj\Debug\netcoreapp3.1\DegreeOftwo.genruntimeconfig.cache
