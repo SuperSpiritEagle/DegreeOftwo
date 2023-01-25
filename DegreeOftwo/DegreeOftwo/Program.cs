@@ -6,12 +6,11 @@ namespace DegreeOftwo
     {
         static void Main(string[] args)
         {
-
             int number = 2;
             int minNumber = 1;
             int maxNumber = 100;
             int randomNumber = 0;
-            int degree = 1;
+            int degree = 0;
             int sumNumber = 1;
 
             Random random = new Random();
@@ -20,12 +19,10 @@ namespace DegreeOftwo
 
             while (randomNumber >= sumNumber)
             {
-                
                 sumNumber *= number;
                 degree++;
             }
 
-            degree--;
             Console.WriteLine($"Для числа {randomNumber} будет {number} в степени {degree} = {sumNumber}");
         }
     }
